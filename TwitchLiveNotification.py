@@ -11,7 +11,7 @@ import requests
 import smtplib
 import time
 
-streamers = ["timthetatman", "summit1g", "riotgames"]                 #List of streamers to check
+streamers = ["timthetatman", "summit1g", "riotgames"]           #List of streamers to check
 
 client_id = "<client id>"                                       #ID for twitch api
 oauth_key = "<oauth_key>"                                       #OAuth key for twitch api
